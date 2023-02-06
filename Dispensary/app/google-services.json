@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632991445503",
+    "project_id": "finalprojectandroid-f135a",
+    "storage_bucket": "finalprojectandroid-f135a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632991445503:android:c92ac313f75a9ab95c37ca",
+        "android_client_info": {
+          "package_name": "com.example.finalprojectandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632991445503-okfib4s19v2q9epcq5g6sd7vi7r5nt32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWL0DxdcpzBxtDLOPiROH8PiG3StRtVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632991445503-okfib4s19v2q9epcq5g6sd7vi7r5nt32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

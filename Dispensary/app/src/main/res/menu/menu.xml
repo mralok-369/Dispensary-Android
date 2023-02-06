@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/orders"
+        android:title="My Orders"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out"
+        android:icon="@drawable/ic_person_account"
+        app:showAsAction="always"/>
+</menu>
+
+<!--    android:icon="@drawable/ic_add_shopping_cart_black_24dp"-->
